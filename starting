@@ -1,0 +1,33 @@
+Starting
+#
+
+https://guides.github.com/activities/hello-world/
+
+#
+
+Get started by creating a new file(../new/master) or uploading(../upload) an existing file. We recommend every repository 
+include a README(../new/master?readme=1), LICENSE(../new/master?filename=LICENSE.md), and .gitignore. (../new/master?filename=LICENSE.md)
+
+…or create a new repository on the command line
+
+echo "# helloworld" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/exz88/helloworld.git
+git push -u origin master
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/exz88/helloworld.git
+git push -u origin master
+
+…or import(../helloworld/import) code from another repository
+
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+build: https://desktop.github.com/
+or
+ssh  :  git@github.com:exz88/helloworld.git
+https:  git@github.com:exz88/helloworld.git
